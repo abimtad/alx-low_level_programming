@@ -13,3 +13,5 @@ rea
 - 2023-10-31 18:05: updated project backlog context for `alx-low_level_programming`.
 
 - 2023-11-06 19:37: noted follow-up engineering tasks for `alx-low_level_programming`.
+
+- 2023-01-18 17:50: documented implementation notes for `alx-low_level_programming`.

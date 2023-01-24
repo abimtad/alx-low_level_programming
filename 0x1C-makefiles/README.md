@@ -1,1 +1,5 @@
 # 0x1C-makefiles
+
+## Maintenance Notes
+
+- 2023-01-24 17:48: documented implementation notes for `alx-low_level_programming`.

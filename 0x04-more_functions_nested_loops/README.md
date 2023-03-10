@@ -13,3 +13,5 @@ read
 - 2023-08-22 12:51: recorded usage and setup clarification for `alx-low_level_programming`.
 
 - 2023-10-30 20:34: documented implementation notes for `alx-low_level_programming`.
+
+- 2023-03-10 19:46: recorded usage and setup clarification for `alx-low_level_programming`.

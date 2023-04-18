@@ -7,3 +7,5 @@
 - 2023-02-21 10:05: captured maintenance observations for `alx-low_level_programming`.
 
 - 2023-02-24 13:08: captured maintenance observations for `alx-low_level_programming`.
+
+- 2023-04-18 17:27: documented implementation notes for `alx-low_level_programming`.

@@ -11,3 +11,5 @@
 - 2023-05-17 10:15: updated project backlog context for `alx-low_level_programming`.
 
 - 2023-05-30 16:19: recorded usage and setup clarification for `alx-low_level_programming`.
+
+- 2023-07-20 12:14: recorded usage and setup clarification for `alx-low_level_programming`.

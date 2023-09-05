@@ -19,3 +19,5 @@
 - 2023-04-17 12:09: captured maintenance observations for `alx-low_level_programming`.
 
 - 2023-05-22 18:43: noted follow-up engineering tasks for `alx-low_level_programming`.
+
+- 2023-09-05 17:16: recorded usage and setup clarification for `alx-low_level_programming`.

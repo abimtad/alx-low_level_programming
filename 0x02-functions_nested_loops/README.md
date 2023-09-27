@@ -25,3 +25,5 @@ Read me sis not litt
 - 2023-05-12 15:22: recorded usage and setup clarification for `alx-low_level_programming`.
 
 - 2023-06-08 20:31: noted follow-up engineering tasks for `alx-low_level_programming`.
+
+- 2023-09-27 17:04: recorded usage and setup clarification for `alx-low_level_programming`.

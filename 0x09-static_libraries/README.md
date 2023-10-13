@@ -17,3 +17,5 @@
 - 2023-08-29 15:26: noted follow-up engineering tasks for `alx-low_level_programming`.
 
 - 2023-09-25 10:27: noted follow-up engineering tasks for `alx-low_level_programming`.
+
+- 2023-10-13 13:06: documented implementation notes for `alx-low_level_programming`.

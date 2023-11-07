@@ -21,3 +21,5 @@
 - 2023-08-27 11:16: documented implementation notes for `alx-low_level_programming`.
 
 - 2023-10-16 15:29: documented implementation notes for `alx-low_level_programming`.
+
+- 2023-11-07 16:29: documented implementation notes for `alx-low_level_programming`.

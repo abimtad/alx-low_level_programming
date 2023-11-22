@@ -21,3 +21,5 @@ Hello
 - 2023-01-17 18:13: documented implementation notes for `alx-low_level_programming`.
 
 - 2023-06-05 15:17: documented implementation notes for `alx-low_level_programming`.
+
+- 2023-11-22 10:45: noted follow-up engineering tasks for `alx-low_level_programming`.

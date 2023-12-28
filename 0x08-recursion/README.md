@@ -21,3 +21,5 @@ recurrsion
 - 2023-10-17 15:42: documented implementation notes for `alx-low_level_programming`.
 
 - 2023-11-21 18:26: documented implementation notes for `alx-low_level_programming`.
+
+- 2023-12-28 19:32: noted follow-up engineering tasks for `alx-low_level_programming`.

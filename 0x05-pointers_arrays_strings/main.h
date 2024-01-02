@@ -1,6 +1,8 @@
 #ifndef FILE_MAIN
 #define FILE_MAIN
 
+char  *_strcpy(char *dest, char *src);
+
 void rev_string(char *s);
 
 void reset_to_98(int *n);

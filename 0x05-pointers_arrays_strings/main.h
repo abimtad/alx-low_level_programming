@@ -1,6 +1,8 @@
 #ifndef FILE_MAIN
 #define FILE_MAIN
 
+int _atoi(char *s);
+
 char  *_strcpy(char *dest, char *src);
 
 void rev_string(char *s);

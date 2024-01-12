@@ -1,1 +1,1 @@
-Readme for this directory
+static library

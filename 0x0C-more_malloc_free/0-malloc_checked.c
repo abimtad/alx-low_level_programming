@@ -7,13 +7,12 @@
  */
 void *malloc_checked(unsigned int b)
 {
-    void *ptr = malloc(b);
-    if (ptr == NULL)
-    {
-        _putchar('E'); 
-        _putchar('\n');
-        exit(98);
-    }
+	void *ptr;
 
-    return ptr;
+	ptr = malloc(b);
+
+	if (ptr == NULL)
+		exit(98);
+
+	return (ptr);
 }
